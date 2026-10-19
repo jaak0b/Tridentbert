@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/9476c7c8-cf93-42d4-acaa-ed325989abdb
 
 # Improvements over a stock Voron Trident
 > [!CAUTION]
-> This design is based on and will only work with Chube sized hotend.
+> This design is based on and will only work with Chube sized hotends.
 > **Using a more standard Voron toolhead might result in the nozzle not beeing able to reach the bed!**
 
 * 4040 based 20 extrusions for increased frame rigidity, which helps when printing at high speed and with high belt tension.
